@@ -12,7 +12,7 @@ git clone https://github.com/Nediorg/VideoChecker
 ```
 2. Install packages
 ```
-pip install install -r requirements.txt
+pip install -r requirements.txt
 ```
 3. Write your config in [src/config.py](src/config.py)
 4. Start bot

@@ -9,6 +9,7 @@ Written using yt-dlp, messages are sent using regular POST requests
 1. Clone repository
 ```
 git clone https://github.com/Nediorg/VideoChecker
+cd VideoChecker
 ```
 2. Install packages
 ```

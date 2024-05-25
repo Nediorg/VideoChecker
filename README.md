@@ -15,10 +15,13 @@ cd VideoChecker
 ```
 pip install -r requirements.txt
 ```
+3. `cd` to [src/](src)
+```
+cd src
+```
 3. Write your config in [src/config.py](src/config.py)
 4. Start bot
 ```
-cd src
 python3 main.py
 ```
 ## Contributing

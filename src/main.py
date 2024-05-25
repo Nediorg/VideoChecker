@@ -80,7 +80,7 @@ def video_scan(channel):
     return video_list
 
 video_list = video_scan(youtubeChannel)
-video_list = []
+
 _FIRST_LAUNCH = True
 while True:
     if not _FIRST_LAUNCH:

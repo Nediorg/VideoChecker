@@ -1,2 +1,2 @@
-yt_dlp
+yt-dlp
 requests

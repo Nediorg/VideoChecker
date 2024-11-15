@@ -1,5 +1,6 @@
-A simple telegram bot that checks the YouTube channel for new videos and, if there are any, sends them by id
-Written using yt-dlp, messages are sent using regular POST requests
+A simple telegram bot that checks the YouTube channel for new videos and (if there are any) sends them by id
+
+Written using yt-dlp, messages are sent using POST requests
 
 ## Demo
 
